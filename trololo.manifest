@@ -1,0 +1,18 @@
+name = "trololo";
+origin = "foo/trololo";
+version = "1.0";
+comment = "All glory to the hypnotoad";
+maintainer = "seb.cato@gmail.com";
+prefix = "/usr";
+licenselogic = "single";
+licenses [
+    "ISCL",
+]
+desc = <<EOD
+I can has desc
+
+WWW: no
+EOD;
+files {
+  /usr/bin/trololo.sh = "56d23d2f5ef85d504d477700d3c91be1607ce93593e2a12bfee3ad521fd2b722";
+}
