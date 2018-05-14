@@ -14,5 +14,5 @@ I can has desc
 WWW: no
 EOD;
 files {
-  /usr/bin/trololo.sh = "56d23d2f5ef85d504d477700d3c91be1607ce93593e2a12bfee3ad521fd2b722";
+  /usr/bin/trololo.sh = "";
 }
